@@ -1,5 +1,5 @@
 {
-  "name": "example-fladg-otel",
+  "name": "example-flagd-otel",
   "private": true,
   "version": "0.38.0",
   "description": "Example of using flagd with otel tracing",
